@@ -1,0 +1,48 @@
+body{
+    background-color: rgb(76, 35, 190);
+    font: normal 15pt Arial;
+
+}
+
+header{
+    color: white;
+    text-align: center;
+
+}
+
+section{
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.425);
+}
+.input-button-container { 
+    text-align: center; /* Alinha o conteúdo centralmente */
+}
+
+input.buton{
+    border-radius: 5px;
+    width: 90px;
+    height: 30px;
+    text-align: center;
+    justify-content: center;
+    background-color: rgb(76, 35, 190);
+    color: white;
+    cursor: pointer;
+    
+}
+#res{
+    text-align: center; /* Alinha o conteúdo centralmente */
+}
+img{
+    border-radius: 200px;
+    width: 250px;
+    height: 250px;
+}
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
